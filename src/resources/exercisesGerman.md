@@ -3,20 +3,26 @@
 ## Motivation/Erklärung
 Aufwärmübungen sind ein nicht zu unterschätzender Faktor beim Schauspielen im Allgemeinen. Diese können dabei helfen, ins Schauspielen mit kleineren Mini-Übungen reinzukommen, dienen aber auch dazu, Komponenten wie Stimme, Motorik etc. aufzuwärmen.
 
+## Übung: Emotionale Statuen
+### Erklärung
+Die Spielenden bewegen sich mit moderater Geschwindigkeit durch den Raum. Die Leitung nennt nach kurzer Zeit eine bestimmte Emotion, woraufhin alle Spielenden **sofort** einfrieren und eine Statue darstellen sollen, die diese Emotion repräsentiert. Nach ein paar Durchgängen können dann die Spielenden selbst Emotionen reinrufen.
+### Bemerkungen
+/
+
 ## Übung: Best Side Story
-### Erklärung:
+### Erklärung
 Es gibt 2 Teams. Team 1 beginnt eine "Ja genau, und weil..."-Geschichte. Sobald jemand aus Team 2 merkt, dass die Ideen so ein wenig ausgehen, unterbricht jemand aus Team 2 die Story mit einem Satz wie "Ich hab eine bessere Idee!". Dann beginnt genau diese Person mit Team 2 eine **neue** "Ja genau, und weil..."-Geschichte.
-### Bemerkungen:
+### Bemerkungen
 - Eine "Ja genau, und weil..."-Geschichte ist eine Geschichte, die von mindestens 2 Personen erzählt wird. Es wird mit einem beliebigen Satz gestartet. Die nächste Person nimmt dann den letzten gesagten Teilsatz und verpackt diesen in ein "Ja genau, und weil (Teilsatz)" und fügt danach einen neuen Teilsatz hinzu. So wird diese Geschichte fortgesetzt.
 
 ## Übung: "Swish, boing, pow!"
-### Erklärung:
+### Erklärung
 Die Gruppe steht im Kreis und es wird ein Impuls weitergegeben. Dieser Impuls soll auf ”nat ̈urliche” Art und Weise weitergeleitet werden. Es gibt 3 Impulse und jeder dieser Impulse hat eine eigene Funktion:
 
 - Swish: ”Swish” ist der Impuls, der zum Nachbarn weitergegeben wird. Jeweils zu dem Nachbarn, der als n ̈achstes dran w ̈are. Ist die Reihenfolge zu einem Zeitpunkt unbestimmt, darf sich die Person aussuchen, in welche Richtung sie den Impuls weiter gibt.
 - Boing: ”Boing” spiegelt den Impuls wieder in die andere Richtung zur ̈uck. Man darf allerdings **nicht** auf ein ”Boing” mit einem weiteren ”Boing” reagieren.
 - Pow: Dieser Impuls erlaubt es, den Impuls an eine beliebige Person im Kreis weiter zu geben. Die nächste Person darf dann mit einem "Swish" entweder die neue Spielreihenfolge bestimmen oder einen weiteren "Pow"-Impuls abgeben, allerdings darf auf "Pow" **nicht** mit "Boing" reagiert werden.
-### Bemerkungen:
+### Bemerkungen
 /
 
 ## Übung: Wortballspiel
@@ -140,6 +146,19 @@ A und B gehen auf die Bühne und nehmen jeweils einen imaginären Gegenstand mit
 # Schnelligkeit
 ## Motivation/Erklärung
 Ein großer Bestandteil ist nicht nur was wir beim Improvisieren sagen, sondern auch wie schnell wir Dinge sagen. Wir wollen vermeiden, dass in einer eigentlich schnellen Szene der Flow unterbrochen wird, weil wir nicht schnell genug reagieren. Um das zu üben, befinden sich in dieser Sektion Übungen, die darauf abzielen, möglichst **schnelle** Reaktionen hervorzurufen.
+
+## Übung: Genre-Switch
+### Erklärung
+A und B (und eventuell C) beginnen eine Szene. Das Publikum ruft dann im Laufe der Szene Genres rein. Die Spielenden müssen nun ihre Szene in diesen Genre übersetzen. Die kann entweder schlagartig geschehen, ohne dass die Szene unterbrochen wird (Option 1) oder dadurch, dass die Szene kurz eingefroren wird, das Genre genannt wird und es dann im neuen Genre weiter geht (Option 2).
+### Bemerkungen
+- Zu Option 1: In diesem Fall muss es eine Moderation geben, welche die Genres laut genug reinruft.
+- Zu Option 2: Hier muss es auch eine Moderation geben, allerdings klatscht diese, um die Szene einzufrieren, und entnimmt dann dem Publikum einen Vorschlag für ein neues Genre.
+
+## Übung: Blitzrunde
+### Erklärung
+Pro Durchlauf gibt es immer eine Moderation (bei einer Show wäre das das Publikum). Diese denkt sich einen Ort aus und die Spielenden müssen dann nacheinander in festgelegter Reihenfolge auf die Bühne kommen und etwas sagen und/oder tun, was an diesem Ort möglichst unangebracht wäre. Die Übung sollte in einem solchen Tempo gespielt werden, sodass kaum bis gar keine Pause zwischen den verschiedenen Spielenden ist.
+### Bemerkungen
+/
 
 ## Übung: Boom Boom Chicago
 ### Erklärung
@@ -304,3 +323,27 @@ Themenvorschläge (wissenschaftlich):
 - Versucht Füllwörter wie z.B. "eh" zu vermeiden.
 - Tragt das Thema möglichst souverän vor; Versucht euch nicht anmerken zu lassen, dass ihr keine Ahnung von dem Thema habt.
 - Die Antworten, die ihr auf die Fragen gebt, müssen nicht logisch konsistent sein, allerdings sollen die Antworten sicher rübergebracht werden.
+
+# Emotionen
+
+## Übung: Emotions-Interview
+### Erklärung
+A interviewt in dieser Szene und B wird interviewt. A beginnt zunächst mit einer einfachen Frage. B antwortet dann auf diese Frage, verkörpert jedoch eine bestimmte Emotion dabei. A muss diese Emotion dann akzeptieren und mit ihr arbeiten. Danach stellt A weitere Fragen und B reagiert und antwortet dann auf diese mit jeweils neuen Emotionen.
+### Bemerkungen
+- Alle gespielten Emotionen dürfen sowohl subtil als auch komplett übertrieben sein.
+
+## Übung: Emotionales Doppel
+### Erklärung
+2 Spielende werden vor der Szene einer Emotion zugewiesen. Diese beiden Emotionen sollten einen möglichst starken Kontrast zueinander bilden. Die 2 Spielenden bekommen dann einen Konflikt, welchen die beiden in der Szene zunächst aufbauen und dann lösen sollen. Dabei verkörpern die beiden durchgehend ihre zugewiesene Emotion, jedoch darf keine Emotion die andere dominieren. Des Weiteren sollen die Spielenden auf die Emotion des anderen eingehen. Die Emotionen sollen nicht nur vorhanden sein, sondern auch etwas zur Szene beitragen, jedoch ist den Spielenden völlig freigestellt, wie sie das tun.
+### Bemerkungen
+/
+
+## Übung: Emotionale Reise
+### Erklärung
+Diese Übung ist für 2-3 Spielende und kommt in 3 Varianten:
+
+- Die Spielenden improvisieren eine Szene für ca. 30 Sekunden ohne irgendwelche Emotionen zu zeigen. Das Publikum (bei einer Show wäre das eine einzelne, vorher ausgewählte Person) beginnt dann Emotionen reinzurufen und diese müssen dann von den Spielenden auf der Bühne blitzartig aufgegriffen und umgesetzt werden.
+- Die Spielenden überlegen sich zusammen innerhalb kurzer Zeit eine Szene und müssen diese spielen. Die Szene soll so durchgeführt werden wie geplant, allerdings soll sie zunächst emotionslos und dann nochmal neu mit einer vorher gegebenen Emotion gespielt werden.
+- Die Spielenden improvisieren eine Szene und spielen die einmal emotionslos durch. Dann gibt es einen 2. Durchlauf und bei dem kann das Publikum (oder eine vorher ausgewählte Person aus dem Publikum) immer wieder Emotionen reinrufen, die dann schlagartig in der Szene umgesetzt werden müssen.
+### Bemerkungen
+- Der Story-Verlauf sollte sich nicht all zu sehr durch die gegebenen Emotionen ändern, allerdings sind kleinere Abweichungen komplett in Ordnung.
