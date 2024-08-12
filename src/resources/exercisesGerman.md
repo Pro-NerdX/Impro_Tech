@@ -3,6 +3,28 @@
 ## Motivation/Erklärung
 Aufwärmübungen sind ein nicht zu unterschätzender Faktor beim Schauspielen im Allgemeinen. Diese können dabei helfen, ins Schauspielen mit kleineren Mini-Übungen reinzukommen, dienen aber auch dazu, Komponenten wie Stimme, Motorik etc. aufzuwärmen.
 
+## Übung: Best Side Story
+### Erklärung:
+Es gibt 2 Teams. Team 1 beginnt eine "Ja genau, und weil..."-Geschichte. Sobald jemand aus Team 2 merkt, dass die Ideen so ein wenig ausgehen, unterbricht jemand aus Team 2 die Story mit einem Satz wie "Ich hab eine bessere Idee!". Dann beginnt genau diese Person mit Team 2 eine **neue** "Ja genau, und weil..."-Geschichte.
+### Bemerkungen:
+- Eine "Ja genau, und weil..."-Geschichte ist eine Geschichte, die von mindestens 2 Personen erzählt wird. Es wird mit einem beliebigen Satz gestartet. Die nächste Person nimmt dann den letzten gesagten Teilsatz und verpackt diesen in ein "Ja genau, und weil (Teilsatz)" und fügt danach einen neuen Teilsatz hinzu. So wird diese Geschichte fortgesetzt.
+
+## Übung: "Swish, boing, pow!"
+### Erklärung:
+Die Gruppe steht im Kreis und es wird ein Impuls weitergegeben. Dieser Impuls soll auf ”nat ̈urliche” Art und Weise weitergeleitet werden. Es gibt 3 Impulse und jeder dieser Impulse hat eine eigene Funktion:
+
+- Swish: ”Swish” ist der Impuls, der zum Nachbarn weitergegeben wird. Jeweils zu dem Nachbarn, der als n ̈achstes dran w ̈are. Ist die Reihenfolge zu einem Zeitpunkt unbestimmt, darf sich die Person aussuchen, in welche Richtung sie den Impuls weiter gibt.
+- Boing: ”Boing” spiegelt den Impuls wieder in die andere Richtung zur ̈uck. Man darf allerdings **nicht** auf ein ”Boing” mit einem weiteren ”Boing” reagieren.
+- Pow: Dieser Impuls erlaubt es, den Impuls an eine beliebige Person im Kreis weiter zu geben. Die nächste Person darf dann mit einem "Swish" entweder die neue Spielreihenfolge bestimmen oder einen weiteren "Pow"-Impuls abgeben, allerdings darf auf "Pow" **nicht** mit "Boing" reagiert werden.
+### Bemerkungen:
+/
+
+## Übung: Wortballspiel
+### Erklärung
+Die Gruppe steht im Kreis und wirft sich gegenseitig Worte zu. Jede Person muss sich dabei merken, welches Wort (und idealer Weise auch von wem) ihr zugeworfen wurde, und welches Wort sie an welche Person weitergegeben hat. Pro Durchlauf darf jede Person nur maximal ein Wort bekommen und weitergeben. Danach wird der exakt identische Ablauf reproduziert. Danach wird ein neuer Wortball, welcher sich in Ablauf und Worten von dem anderen unterscheidet, ins Rollen gebracht und beide Wortb ̈alle werden gleichzeitig gespielt. Ziel ist es, dass am Ende jeder angestoßene Wortball wieder bei der Person landet, die ihn losgetreten hat.
+### Bemerkungen
+- Jeder Wortball kann auch einem bestimmten Thema folgen, um die Schwierigkeit zu erhöhen.
+
 ## Übung: Gruppenklatschen
 ### Erklärung
 Die Gruppe steht im Kreis. Eine Person beginnt einen einfach Rhythmus zu klatschen (wahlweise auch schnipsen etc.) und diesen kontinuierlich fortzusetzen. Die nächste Person versucht in diesen Rhythmus einzusteigen und ihren Teil zu dem bisherigen Rhythmus beizutragen. Ziel ist es, dass die gesamte Gruppe an dem Rhythmus beteiligt ist.
@@ -84,6 +106,12 @@ Konflikte sind wichtig, um in Szenen eine Spannungskurve zu erzeugen. Deswegen w
 
 Im Improvisationsschauspiel meinen wir mit "Konflikt" erst mal nur **Problemsituationen** in einer Szene. Solch eine Situation kann dadurch entstehen, dass die Interessen oder Ziele mehrerer Charaktere kollidieren, aber auch durch eine Aufgabe, die beide eventuell kooperativ lösen müssen. Letzteres alleine ist aber meist etwas trocken, weswegen wir meistens eine Art Streitsituation haben wollen. Eine weitere Problemsituation könnte beispielsweise eine Szene sein, in der jemand im Sterben liegt und versucht wird, diese Person zu retten.
 
+## Übung: Kontrastierende Charaktere
+### Erklärung:
+Es gibt 2 Spielende, welche vor ihrer Szene Charaktereigenschaften zugeteilt bekommen. Die Spielenden wissen nichts von den Eigenschaften des jeweils anderen, allerdings sollen die gegebenen Eigenschaften im kontrast zueinander stehen, wie beispielsweise ”introvertier/extravertiert”. Mit diesen Eigenschaften bekommen beide nun ein gemeinsames Ziel (Setting), auf welches sie in der Szene hinarbeiten müssen.
+### Bemerkungen:
+- Am besten gibt eine Person die 2 Eigenschaften vor (sodass nur die Spielenden davon wissen) und eine Person erläutert dann laut für alle das gemeinsame Ziel/Setting.
+
 ## Übung: Konfliktrotation
 ### Erklärung:
 Diese Übung findet in **2er-Paaren** statt. Person A startet die Szene mit einem Satz, welcher sofort einen Konflikt einführt (z.B. "Hey! Du hast mein Geld gestohlen!"). Partner B akzeptiert diesen Konflikt und geht darauf ein. Ziel der Übung ist es, den Konflikt erst zu vertiefen, bevor er dann aufgelöst wird. A und B versuchen den Konflikt so lange zu vertiefen, bis ein Signal kommt. Ab diesem Punkt versuchen A und B den Konflikt aufzulösen. Für Vertiefen **und** Auflösen haben die Spielenden **insgesamt** 2 Minuten. Sobald die Zeit um ist, wird "ROTATION" gerufen und die Übung beginnt von vorne, nur dass dieses Mal B **denselben** Konflikt anfängt, allerdings sollen sowohl Vertiefung als auch Auslösung anders sein als vorher.
@@ -108,6 +136,32 @@ Als Objekt bezeichnen wir meist imaginäre Gegenstände, die in unsere Szenen in
 A und B gehen auf die Bühne und nehmen jeweils einen imaginären Gegenstand mit. Ziel der Übung ist es, eine Szene zu erschaffen mit beiden Gegenständen. Die Objekte sollen dabei eine zentrale Rolle in der Handlung haben und sollen auch die Interaktion zwischen A und B beeinflussen. Sobald die Gegenstände zum Einsatz kommen, ist es wichtig, dass der Gegenstand so dargestellt wird, dass Außenstehende wissen, um was für einen Gegenstand es sich handelt. Der Gegenstand darf selbstverständlicher Weise natürlich auch in der Szene benannt und beschrieben werden.
 ### Bemerkungen
 - Wenn A beispielsweise einen Gegenstand hat, der viel wiegt, und B nimmt diesen dann in die Hand, dann darf der Gegenstand nicht urplötzlich sichtlich leicher sein.
+
+# Schnelligkeit
+## Motivation/Erklärung
+Ein großer Bestandteil ist nicht nur was wir beim Improvisieren sagen, sondern auch wie schnell wir Dinge sagen. Wir wollen vermeiden, dass in einer eigentlich schnellen Szene der Flow unterbrochen wird, weil wir nicht schnell genug reagieren. Um das zu üben, befinden sich in dieser Sektion Übungen, die darauf abzielen, möglichst **schnelle** Reaktionen hervorzurufen.
+
+## Übung: Boom Boom Chicago
+### Erklärung
+Es werden 3 Personen auf der Bühne benötigt (A, B & C).
+
+> A: (beginnt die Szene, in dem sie mit einer körperlichen Aktivität (Routine) beginnt, z.B. Kaffee kochen)
+
+> B: (betritt die Szene und macht in 1-2 Sätzen die Beziehung der beiden Figuren klar)
+
+> A: (antwortet und kreiert in 1-2 Sätzen ein einfachen Problem, welches die beiden haben oder was entstanden sein könnte)
+
+> C: (3 betritt die Szene als Figur und löst das Problem (ganz plakativ) mit einem Satz oder einer Aktion)
+
+Alle Personen, die nicht auf der Bühne stehen, rufen danach gemeinsam: "Tadaaaaaa!"
+### Bemerkungen
+- Behaltet immer im Kopf, dass es hier primär um Schnelligkeit geht. Wir wollen möglichst **schnelle** Reaktionen haben.
+
+## Übung: Neue Wahl
+### Erklärung
+Es werden A und B (und eventuell C) auf der Bühne und D als Regisseur*in benötigt. Die Spielenden bekommen ein Thema vorgegeben und müssen daraus eine Szene spielen. D hat nun die Möglichkeit, an beliebigen Stellen innerhalb der Szene "Neue Wahl" zu rufen. Die Spielenden müssen dann das letzte, was die gesagt/getan haben **schlagartig** in etwas anderes abändern. Optimaler Weise ruft D nur rein, wenn jemand auf der Bühne gerade etwas gesagt hat.
+### Bemerkungen
+- D darf gerne mehrmals hintereinander reinrufen, bis D mit der neuen Wahl zufrieden ist.
 
 # Impulse
 ## Motivation/Erklärung
