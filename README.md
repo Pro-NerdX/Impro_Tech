@@ -21,7 +21,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## How to use
 
-The functionality of the window is self-explanatory. The output file of the program will be in output with the specified type (either .pdf or .txt).
+The functionality of the window is self-explanatory. The output file of the program is `.pdf`, that won't be downloaded. If you wanna store a generated output file, you must save it from your selected pdf-reader manually.
 
 The pool of exercises is in the `exercises` folder. If you want to add exercises to the `.md` files, follow the given structure. I.e.:
 
