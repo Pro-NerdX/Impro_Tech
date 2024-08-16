@@ -114,7 +114,11 @@ Konflikte sind wichtig, um in Szenen eine Spannungskurve zu erzeugen. Deswegen w
 
 Im Improvisationsschauspiel meinen wir mit "Konflikt" erst mal nur **Problemsituationen** in einer Szene. Solch eine Situation kann dadurch entstehen, dass die Interessen oder Ziele mehrerer Charaktere kollidieren, aber auch durch eine Aufgabe, die beide eventuell kooperativ lösen müssen. Letzteres alleine ist aber meist etwas trocken, weswegen wir meistens eine Art Streitsituation haben wollen. Eine weitere Problemsituation könnte beispielsweise eine Szene sein, in der jemand im Sterben liegt und versucht wird, diese Person zu retten.
 
-
+## Übung: Kontrastierende Charaktere
+### Erklärung
+Es gibt 2 Spielende, welche vor ihrer Szene Charaktereigenschaften zugeteilt bekommen. Die Spielenden wissen nichts von den Eigenschaften des jeweils anderen, allerdings sollen die gegebenen Eigenschaften im kontrast zueinander stehen, wie beispielsweise "introvertier/extravertiert". Mit diesen Eigenschaften bekommen beide nun ein gemeinsames Ziel (Setting), auf welches sie in der Szene hinarbeiten müssen.
+### Bemerkungen
+- Am besten gibt eine Person die 2 Eigenschaften vor (sodass nur die Spielenden davon wissen) und eine Person erläutert dann laut für alle das gemeinsame Ziel/Setting.
 
 ## Übung: Konfliktrotation
 ### Erklärung
