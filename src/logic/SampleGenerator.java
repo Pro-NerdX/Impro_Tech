@@ -51,7 +51,7 @@ public class SampleGenerator extends ConverterInterface {
         // selecting topics
         final List<Integer> selectedTopics = new ArrayList<>();
         for (int i = 0; i < 3; i++) {
-            final int currentTopicIndex = this.lineNumberOfTopicStarts.get(random.nextInt(this.lineNumberOfTopicStarts.size()));
+            final int currentTopicIndex = this.lineNumberOfTopicStarts.get(random.nextInt(this.lineNumberOfTopicStarts.size())); // size apparently is 0
             if (selectedTopics.contains(currentTopicIndex)) {
                 i--;
                 continue;
@@ -93,7 +93,7 @@ public class SampleGenerator extends ConverterInterface {
             final Scanner scanner = new Scanner(file);
             final FileWriter fileWriter = new FileWriter(this.nameOfMdFile);
             boolean linesAreCurrentlyWritten = false;
-            while (scanner.hasNext()) {
+            while (scanner.hasNextLine()) {
                 final String line = scanner.nextLine();
                 if (linesAreCurrentlyWritten && all.contains(currentIndex)) {
                     linesAreCurrentlyWritten = false;

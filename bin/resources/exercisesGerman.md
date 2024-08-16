@@ -3,6 +3,14 @@
 ## Motivation/Erklärung
 Aufwärmübungen sind ein nicht zu unterschätzender Faktor beim Schauspielen im Allgemeinen. Diese können dabei helfen, ins Schauspielen mit kleineren Mini-Übungen reinzukommen, dienen aber auch dazu, Komponenten wie Stimme, Motorik etc. aufzuwärmen.
 
+## Übung: Emotionale Statuen
+### Erklärung
+Die Spielenden bewegen sich mit moderater Geschwindigkeit durch den Raum. Die Leitung nennt nach kurzer Zeit eine bestimmte Emotion, woraufhin alle Spielenden **sofort** einfrieren und eine Statue darstellen sollen, die diese Emotion repräsentiert. Nach ein paar Durchgängen können dann die Spielenden selbst Emotionen reinrufen.
+### Bemerkungen
+/
+
+
+
 ## Übung: Gruppenklatschen
 ### Erklärung
 Die Gruppe steht im Kreis. Eine Person beginnt einen einfach Rhythmus zu klatschen (wahlweise auch schnipsen etc.) und diesen kontinuierlich fortzusetzen. Die nächste Person versucht in diesen Rhythmus einzusteigen und ihren Teil zu dem bisherigen Rhythmus beizutragen. Ziel ist es, dass die gesamte Gruppe an dem Rhythmus beteiligt ist.
@@ -84,10 +92,12 @@ Konflikte sind wichtig, um in Szenen eine Spannungskurve zu erzeugen. Deswegen w
 
 Im Improvisationsschauspiel meinen wir mit "Konflikt" erst mal nur **Problemsituationen** in einer Szene. Solch eine Situation kann dadurch entstehen, dass die Interessen oder Ziele mehrerer Charaktere kollidieren, aber auch durch eine Aufgabe, die beide eventuell kooperativ lösen müssen. Letzteres alleine ist aber meist etwas trocken, weswegen wir meistens eine Art Streitsituation haben wollen. Eine weitere Problemsituation könnte beispielsweise eine Szene sein, in der jemand im Sterben liegt und versucht wird, diese Person zu retten.
 
+
+
 ## Übung: Konfliktrotation
-### Erklärung:
+### Erklärung
 Diese Übung findet in **2er-Paaren** statt. Person A startet die Szene mit einem Satz, welcher sofort einen Konflikt einführt (z.B. "Hey! Du hast mein Geld gestohlen!"). Partner B akzeptiert diesen Konflikt und geht darauf ein. Ziel der Übung ist es, den Konflikt erst zu vertiefen, bevor er dann aufgelöst wird. A und B versuchen den Konflikt so lange zu vertiefen, bis ein Signal kommt. Ab diesem Punkt versuchen A und B den Konflikt aufzulösen. Für Vertiefen **und** Auflösen haben die Spielenden **insgesamt** 2 Minuten. Sobald die Zeit um ist, wird "ROTATION" gerufen und die Übung beginnt von vorne, nur dass dieses Mal B **denselben** Konflikt anfängt, allerdings sollen sowohl Vertiefung als auch Auslösung anders sein als vorher.
-### Bemerkungen:
+### Bemerkungen
 - Der Fokus dieser Übung liegt auf dem Vertiefen des Konflikts.
 - Versucht verschiedene Aspekte des Konflikts zu beleuchten.
 - Achtet darauf, nicht dem, was bereits etabliert wurde zu widersprechen.
@@ -103,11 +113,50 @@ In dieser Übung benötigen wir Person A, B und C. A und B bekommen Rollen und e
 ## Motivation/Erklärung
 Als Objekt bezeichnen wir meist imaginäre Gegenstände, die in unsere Szenen integriert werden. Was uns dabei wichtig ist, ist dass man konsistent mit solchen Objekten ist. Wenn jemand beispielsweise einen Gegenstand an eine bestimmte Stelle auf der Bühne platziert, ist es wichtig, dass der Gegenstand nicht einfach verschwindet oder plötzlich etwas anders ist.
 
-## Übung
+## Übung: Objekt-Duett
 ### Erklärung
 A und B gehen auf die Bühne und nehmen jeweils einen imaginären Gegenstand mit. Ziel der Übung ist es, eine Szene zu erschaffen mit beiden Gegenständen. Die Objekte sollen dabei eine zentrale Rolle in der Handlung haben und sollen auch die Interaktion zwischen A und B beeinflussen. Sobald die Gegenstände zum Einsatz kommen, ist es wichtig, dass der Gegenstand so dargestellt wird, dass Außenstehende wissen, um was für einen Gegenstand es sich handelt. Der Gegenstand darf selbstverständlicher Weise natürlich auch in der Szene benannt und beschrieben werden.
 ### Bemerkungen
 - Wenn A beispielsweise einen Gegenstand hat, der viel wiegt, und B nimmt diesen dann in die Hand, dann darf der Gegenstand nicht urplötzlich sichtlich leicher sein.
+
+# Schnelligkeit
+## Motivation/Erklärung
+Ein großer Bestandteil ist nicht nur was wir beim Improvisieren sagen, sondern auch wie schnell wir Dinge sagen. Wir wollen vermeiden, dass in einer eigentlich schnellen Szene der Flow unterbrochen wird, weil wir nicht schnell genug reagieren. Um das zu üben, befinden sich in dieser Sektion Übungen, die darauf abzielen, möglichst **schnelle** Reaktionen hervorzurufen.
+
+## Übung: Genre-Switch
+### Erklärung
+A und B (und eventuell C) beginnen eine Szene. Das Publikum ruft dann im Laufe der Szene Genres rein. Die Spielenden müssen nun ihre Szene in diesen Genre übersetzen. Die kann entweder schlagartig geschehen, ohne dass die Szene unterbrochen wird (Option 1) oder dadurch, dass die Szene kurz eingefroren wird, das Genre genannt wird und es dann im neuen Genre weiter geht (Option 2).
+### Bemerkungen
+- Zu Option 1: In diesem Fall muss es eine Moderation geben, welche die Genres laut genug reinruft.
+- Zu Option 2: Hier muss es auch eine Moderation geben, allerdings klatscht diese, um die Szene einzufrieren, und entnimmt dann dem Publikum einen Vorschlag für ein neues Genre.
+
+## Übung: Blitzrunde
+### Erklärung
+Pro Durchlauf gibt es immer eine Moderation (bei einer Show wäre das das Publikum). Diese denkt sich einen Ort aus und die Spielenden müssen dann nacheinander in festgelegter Reihenfolge auf die Bühne kommen und etwas sagen und/oder tun, was an diesem Ort möglichst unangebracht wäre. Die Übung sollte in einem solchen Tempo gespielt werden, sodass kaum bis gar keine Pause zwischen den verschiedenen Spielenden ist.
+### Bemerkungen
+/
+
+## Übung: Boom Boom Chicago
+### Erklärung
+Es werden 3 Personen auf der Bühne benötigt (A, B & C).
+
+> A: (beginnt die Szene, in dem sie mit einer körperlichen Aktivität (Routine) beginnt, z.B. Kaffee kochen)
+
+> B: (betritt die Szene und macht in 1-2 Sätzen die Beziehung der beiden Figuren klar)
+
+> A: (antwortet und kreiert in 1-2 Sätzen ein einfachen Problem, welches die beiden haben oder was entstanden sein könnte)
+
+> C: (3 betritt die Szene als Figur und löst das Problem (ganz plakativ) mit einem Satz oder einer Aktion)
+
+Alle Personen, die nicht auf der Bühne stehen, rufen danach gemeinsam: "Tadaaaaaa!"
+### Bemerkungen
+- Behaltet immer im Kopf, dass es hier primär um Schnelligkeit geht. Wir wollen möglichst **schnelle** Reaktionen haben.
+
+## Übung: Neue Wahl
+### Erklärung
+Es werden A und B (und eventuell C) auf der Bühne und D als Regisseur*in benötigt. Die Spielenden bekommen ein Thema vorgegeben und müssen daraus eine Szene spielen. D hat nun die Möglichkeit, an beliebigen Stellen innerhalb der Szene "Neue Wahl" zu rufen. Die Spielenden müssen dann das letzte, was die gesagt/getan haben **schlagartig** in etwas anderes abändern. Optimaler Weise ruft D nur rein, wenn jemand auf der Bühne gerade etwas gesagt hat.
+### Bemerkungen
+- D darf gerne mehrmals hintereinander reinrufen, bis D mit der neuen Wahl zufrieden ist.
 
 # Impulse
 ## Motivation/Erklärung
@@ -158,7 +207,7 @@ Diese Übung ist für jeweils 2 Personen (A & B). A dreht B den Rücken zu. Pers
 
 # Charaktere
 
-## Motivation
+## Motivation/Erklärung
 Für das Improvisationstheater ist es wichtig, dass wir in der Lage sind, verschiedene Charaktere zu spielen und konsistent in deren Darstellung zu bleiben. Wenn wir beispielsweise einen Charakter spielen, der einen Akzent hat, dann sollten wir versuchen, diesen Akzent auch während der gesamten Szene beizubehalten.
 
 ## Übung: Charakterinterview
@@ -183,7 +232,7 @@ Anschließend werden die Karten zufällig vom Übungsleiter unter den Teilnehmen
 - Nach einem Durchlauf, versucht das Publikum zu erraten, was auf den Charakterbeschreibungen stand.
 
 # Publikum
-## Motivation
+## Motivation/Erklärung
 Viele Formate imImprovisationsschauspiel nutzen Einflüsse aus dem Publikum, sodass die Darstellenden diese in ihre Szenen integrieren können. In der folgenden Sektion soll es deswegen darum gehen, mit solchen Einflüssen zu üben. Hierfür gehen wir durch verschiedene Übungen, die alle jeweils auf eine andere Art des Einflusses abzielen.
 
 ## Übung: Begriffszene
@@ -213,7 +262,7 @@ Die Spielenden müssen bereit sein, auf diese Inputs zu reagieren und die Szene 
 /
 
 # Selbstsicherheit
-## Motivation
+## Motivation/Erklärung
 Beim Improschauspiel ist es wichtig, dass die Selbstsicherheit die Performance nicht negativ beeinflusst. Beispielsweise könnte es passieren, dass jemand versucht einen Witz zu machen, aber niemand lacht. Das kann auf der Bühne verunsichern. Unser Ziel in dieser Sektion ist es, dass wir uns nicht so einfach verunsichern lassen auf der Bühne. Die folgenden Übungen zielen alle samt darauf ab, dass wir uns auf der Bühne bewusst in Situationen bringen, die etwas verunsichernd wirken können.
 
 ## Übung: Präsentation bei voller Ahnungslosigkeit
@@ -250,3 +299,30 @@ Themenvorschläge (wissenschaftlich):
 - Versucht Füllwörter wie z.B. "eh" zu vermeiden.
 - Tragt das Thema möglichst souverän vor; Versucht euch nicht anmerken zu lassen, dass ihr keine Ahnung von dem Thema habt.
 - Die Antworten, die ihr auf die Fragen gebt, müssen nicht logisch konsistent sein, allerdings sollen die Antworten sicher rübergebracht werden.
+
+# Emotionen
+
+## Motivation/Erklärung
+Beim Improschauspiel geht es natürlich auch viele darum, Emotionen gut und überzeugend zu spielen. Emotionen sind ein gutes Mittel, um Konflikte zu vertiefen oder gar eskalieren zu lassen. Deswegen gibt es in der folgenden Sektionen Übungen, bei denen der Fokus darum liegt, verschiedenste Emotionen zu verkörpern.
+
+## Übung: Emotions-Interview
+### Erklärung
+A interviewt in dieser Szene und B wird interviewt. A beginnt zunächst mit einer einfachen Frage. B antwortet dann auf diese Frage, verkörpert jedoch eine bestimmte Emotion dabei. A muss diese Emotion dann akzeptieren und mit ihr arbeiten. Danach stellt A weitere Fragen und B reagiert und antwortet dann auf diese mit jeweils neuen Emotionen.
+### Bemerkungen
+- Alle gespielten Emotionen dürfen sowohl subtil als auch komplett übertrieben sein.
+
+## Übung: Emotionales Doppel
+### Erklärung
+2 Spielende werden vor der Szene einer Emotion zugewiesen. Diese beiden Emotionen sollten einen möglichst starken Kontrast zueinander bilden. Die 2 Spielenden bekommen dann einen Konflikt, welchen die beiden in der Szene zunächst aufbauen und dann lösen sollen. Dabei verkörpern die beiden durchgehend ihre zugewiesene Emotion, jedoch darf keine Emotion die andere dominieren. Des Weiteren sollen die Spielenden auf die Emotion des anderen eingehen. Die Emotionen sollen nicht nur vorhanden sein, sondern auch etwas zur Szene beitragen, jedoch ist den Spielenden völlig freigestellt, wie sie das tun.
+### Bemerkungen
+/
+
+## Übung: Emotionale Reise
+### Erklärung
+Diese Übung ist für 2-3 Spielende und kommt in 3 Varianten:
+
+- Die Spielenden improvisieren eine Szene für ca. 30 Sekunden ohne irgendwelche Emotionen zu zeigen. Das Publikum (bei einer Show wäre das eine einzelne, vorher ausgewählte Person) beginnt dann Emotionen reinzurufen und diese müssen dann von den Spielenden auf der Bühne blitzartig aufgegriffen und umgesetzt werden.
+- Die Spielenden überlegen sich zusammen innerhalb kurzer Zeit eine Szene und müssen diese spielen. Die Szene soll so durchgeführt werden wie geplant, allerdings soll sie zunächst emotionslos und dann nochmal neu mit einer vorher gegebenen Emotion gespielt werden.
+- Die Spielenden improvisieren eine Szene und spielen die einmal emotionslos durch. Dann gibt es einen 2. Durchlauf und bei dem kann das Publikum (oder eine vorher ausgewählte Person aus dem Publikum) immer wieder Emotionen reinrufen, die dann schlagartig in der Szene umgesetzt werden müssen.
+### Bemerkungen
+- Der Story-Verlauf sollte sich nicht all zu sehr durch die gegebenen Emotionen ändern, allerdings sind kleinere Abweichungen komplett in Ordnung.
