@@ -23,6 +23,12 @@ Eine Person stellt sich vor alle anderen und so selbstbewusst und -sicher wie m�
 ### Bemerkungen
 /
 
+## Übung: Best Side Story
+### Erklärung
+Es gibt 2 Teams. Team 1 beginnt eine "Ja genau, und weil..."-Geschichte. Sobald jemand aus Team 2 merkt, dass die Ideen so ein wenig ausgehen, unterbricht jemand aus Team 2 die Story mit einem Satz wie "Ich hab eine bessere Idee!". Dann beginnt genau diese Person mit Team 2 eine **neue** "Ja genau, und weil..."-Geschichte.
+### Bemerkungen
+- Eine "Ja genau, und weil..."-Geschichte ist eine Geschichte, die von mindestens 2 Personen erzählt wird. Es wird mit einem beliebigen Satz gestartet. Die nächste Person nimmt dann den letzten gesagten Teilsatz und verpackt diesen in ein "Ja genau, und weil (Teilsatz)" und fügt danach einen neuen Teilsatz hinzu. So wird diese Geschichte fortgesetzt.
+
 ## Übung: Raumlauf
 ### Erklärung
 Alle Spielenden gehen durch den Raum mit moderatem Tempo, sodass der ganze Raum (fast) immer möglichst ausgefüllt ist. Von der Spielleitung kommen dann regelmäßig Impuse (z.B. "Ihr telefoniert und seid in einem sehr intensiven Streitgespräch") und die Spielenden müssen diesen Impulsen dann folgen.
