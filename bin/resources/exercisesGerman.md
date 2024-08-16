@@ -33,6 +33,12 @@ Die Gruppe steht im Kreis und es wird ein Impuls weitergegeben. Dieser Impuls so
 ### Bemerkungen
 /
 
+## Übung: Wortballspiel
+### Erklärung
+Die Gruppe steht im Kreis und wirft sich gegenseitig Worte zu. Jede Person muss sich dabei merken, welches Wort (und idealer Weise auch von wem) ihr zugeworfen wurde, und welches Wort sie an welche Person weitergegeben hat. Pro Durchlauf darf jede Person nur maximal ein Wort bekommen und weitergeben. Danach wird der exakt identische Ablauf reproduziert. Danach wird ein neuer Wortball, welcher sich in Ablauf und Worten von dem anderen unterscheidet, ins Rollen gebracht und beide Wortbälle werden gleichzeitig gespielt. Ziel ist es, dass am Ende jeder angestoßene Wortball wieder bei der Person landet, die ihn losgetreten hat.
+### Bemerkungen
+- Jeder Wortball kann auch einem bestimmten Thema folgen, um die Schwierigkeit zu erhöhen.
+
 ## Übung: Best Side Story
 ### Erklärung
 Es gibt 2 Teams. Team 1 beginnt eine "Ja genau, und weil..."-Geschichte. Sobald jemand aus Team 2 merkt, dass die Ideen so ein wenig ausgehen, unterbricht jemand aus Team 2 die Story mit einem Satz wie "Ich hab eine bessere Idee!". Dann beginnt genau diese Person mit Team 2 eine **neue** "Ja genau, und weil..."-Geschichte.
