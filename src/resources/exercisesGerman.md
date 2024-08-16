@@ -23,6 +23,16 @@ Eine Person stellt sich vor alle anderen und so selbstbewusst und -sicher wie m�
 ### Bemerkungen
 /
 
+## Übung: "Swish, boing, pow!"
+### Erklärung
+Die Gruppe steht im Kreis und es wird ein Impuls weitergegeben. Dieser Impuls soll auf "natürliche" Art und Weise weitergeleitet werden. Es gibt 3 Impulse und jeder dieser Impulse hat eine eigene Funktion:
+
+- Swish: "Swish" ist der Impuls, der zum Nachbarn weitergegeben wird. Jeweils zu dem Nachbarn, der als nächstes dran wäre. Ist die Reihenfolge zu einem Zeitpunkt unbestimmt, darf sich die Person aussuchen, in welche Richtung sie den Impuls weiter gibt.
+- Boing: "Boing" spiegelt den Impuls wieder in die andere Richtung zurück. Man darf allerdings **nicht** auf ein "Boing" mit einem weiteren "Boing" reagieren.
+- Pow: Dieser Impuls erlaubt es, den Impuls an eine beliebige Person im Kreis weiter zu geben. Die nächste Person darf dann mit einem "Swish" entweder die neue Spielreihenfolge bestimmen oder einen weiteren "Pow"-Impuls abgeben, allerdings darf auf "Pow" **nicht** mit "Boing" reagiert werden.
+### Bemerkungen
+/
+
 ## Übung: Best Side Story
 ### Erklärung
 Es gibt 2 Teams. Team 1 beginnt eine "Ja genau, und weil..."-Geschichte. Sobald jemand aus Team 2 merkt, dass die Ideen so ein wenig ausgehen, unterbricht jemand aus Team 2 die Story mit einem Satz wie "Ich hab eine bessere Idee!". Dann beginnt genau diese Person mit Team 2 eine **neue** "Ja genau, und weil..."-Geschichte.
