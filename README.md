@@ -1,3 +1,7 @@
+## Third Party Lib(s)
+
+- `asponse-pdf-24.7-jdk17`: Used to convert `.tex`-files to a **PDF**
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
