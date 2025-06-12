@@ -39,6 +39,12 @@ Die Gruppe steht im Kreis und wirft sich gegenseitig Worte zu. Jede Person muss 
 ### Bemerkungen
 - Jeder Wortball kann auch einem bestimmten Thema folgen, um die Schwierigkeit zu erhöhen.
 
+## Übung: Objektball
+### Erklärung
+Alle Teilnehmenden stehen im Kreis. Eine Person beginnt, denkt sich einen imaginären Gegenstand aus und stellt pantomimisch dar, wie sie mit diesem Gegenstand interagiert. Die Darstellung sollte so klar sein, dass die anderen eine Vorstellung davon bekommen, um welchen Gegenstand es sich handeln könnte. Anschließend „übergibt“ die Person den imaginären Gegenstand pantomimisch an eine andere Person im Kreis. Diese Person nimmt den Gegenstand entgegen, spielt ebenfalls pantomimisch mit ihm und verändert den Gegenstand (z. B. durch eine neue Bewegung oder eine neue Funktion) oder „wirft“ ihn pantomimisch weg und denkt sich einen neuen aus, mit dem sie dann interagiert, bevor sie ihn weitergibt.
+### Bemerkung
+/
+
 ## Übung: Best Side Story
 ### Erklärung
 Es gibt 2 Teams. Team 1 beginnt eine "Ja genau, und weil..."-Geschichte. Sobald jemand aus Team 2 merkt, dass die Ideen so ein wenig ausgehen, unterbricht jemand aus Team 2 die Story mit einem Satz wie "Ich hab eine bessere Idee!". Dann beginnt genau diese Person mit Team 2 eine **neue** "Ja genau, und weil..."-Geschichte.
@@ -63,6 +69,12 @@ Eine Person gibt einen Schlag los (auf eine andere Person) und ruft dabei "Hi!".
 Eine Person muss ein gegebenes Wort pantomimisch darstellen. Das Publikum muss nun versuchen zu erraten, was das gegebene Wort war, **aber** das Ziel ist es nun, dass das Publikum absichtlich das Wort "falsch errät". Die gegebenen Wörter sollten deswegen auch möglichst einfach sein, um sie pantomimisch darzustellen.
 ### Bemerkungen
 - Eine Person sollte das Wort auf der Bühne darstellen und alle anderen sollten nacheinander raten, sodass alle ungefähr gleich oft raten können.
+
+## Übung: Wie war dein Tag?
+### Erklärung
+Eine Person stellt pantomimisch seinen Tag dar und der Rest der Gruppe muss danach erraten, was die Person den Tag über erlebt hat.
+### Bemerkung
+- Tag kann hier nach Absprache auch durch einen besonderen Tag oder ähnliches ersetzt werden.
 
 ## Übung: Absonderlicher Nachbar
 ### Erklärung
@@ -135,6 +147,12 @@ In dieser Übung benötigen wir Person A, B und C. A und B bekommen Rollen und e
 - A und B sollten dem Konflikt eine gewisse Tiefe verleihen, sodass C viele Möglichkeiten hat, an dem Konflikten anzusetzen.
 - C sollte darauf achten, dem etablierten Setting nicht zu widersprechen.
 
+## Übung: Katastrophe
+### Erklärung
+Eine Person aus dem Publikum gibt geheim den Spielenden und der Moderation eine Katastrophe. A und B spielen dann eine Szene vor der Katastrophe bis die Moderation die Szene beendet (beispielsweise durch Licht ausschalten) und startet eine neuen Szene mit "Nach der Katastrophe!", die nach der Katatstrophe spielt. Nach der Szene kann das Publikum die Katastrophe erraten.
+### Bemerkung
+- Katastrophe kann auch eine Kleinigkeit sein, wie ein geplatzter Luftballon.
+
 # Objekte
 ## Motivation/Erklärung
 Als Objekt bezeichnen wir meist imaginäre Gegenstände, die in unsere Szenen integriert werden. Was uns dabei wichtig ist, ist dass man konsistent mit solchen Objekten ist. Wenn jemand beispielsweise einen Gegenstand an eine bestimmte Stelle auf der Bühne platziert, ist es wichtig, dass der Gegenstand nicht einfach verschwindet oder plötzlich etwas anders ist.
@@ -144,6 +162,16 @@ Als Objekt bezeichnen wir meist imaginäre Gegenstände, die in unsere Szenen in
 A und B gehen auf die Bühne und nehmen jeweils einen imaginären Gegenstand mit. Ziel der Übung ist es, eine Szene zu erschaffen mit beiden Gegenständen. Die Objekte sollen dabei eine zentrale Rolle in der Handlung haben und sollen auch die Interaktion zwischen A und B beeinflussen. Sobald die Gegenstände zum Einsatz kommen, ist es wichtig, dass der Gegenstand so dargestellt wird, dass Außenstehende wissen, um was für einen Gegenstand es sich handelt. Der Gegenstand darf selbstverständlicher Weise natürlich auch in der Szene benannt und beschrieben werden.
 ### Bemerkungen
 - Wenn A beispielsweise einen Gegenstand hat, der viel wiegt, und B nimmt diesen dann in die Hand, dann darf der Gegenstand nicht urplötzlich sichtlich leicher sein.
+
+## Übung: Objekt-Stille Post
+### Erklärung
+Alle Spielenden stellen sich am Rand der Bühne auf.
+Die erste Person betritt die Spielfläche und interagiert mit einem imaginären Objekt, das sie dort sichtbar platziert. Dabei macht sie durch Mimik, Gestik und/oder Geräusche deutlich, um welchen Gegenstand es sich handelt und verlässt sie die Bühne wieder.
+Die nächste Person betritt nun den Bühne, interagiert mit dem bereits vorhandenen Objekt und fügt selbst ein neues imaginäres Objekt hinzu und verlässt auch wieder die Bühne.
+So geht es reihum weiter, bis jeder Spielerin ein Objekt in den Raum gebracht hat.
+Zum Abschluss können alle den Raum erneut betreten und mit allen entstandenen Objekten interagieren
+### Bemerkung
+/
 
 # Schnelligkeit
 ## Motivation/Erklärung
@@ -175,6 +203,9 @@ Es werden 3 Personen auf der Bühne benötigt (A, B & C).
 > C: (3 betritt die Szene als Figur und löst das Problem (ganz plakativ) mit einem Satz oder einer Aktion)
 
 Alle Personen, die nicht auf der Bühne stehen, rufen danach gemeinsam: "Tadaaaaaa!"
+
+Variante: Kombination mit Neue Wahl
+- Publikum hat die Möglichkeit mit "Neue Wahl", die Splielenden dazu bringen, das letzte was gesagt/getan wurde, in etwas anderes abzuändern.
 ### Bemerkungen
 - Behaltet immer im Kopf, dass es hier primär um Schnelligkeit geht. Wir wollen möglichst **schnelle** Reaktionen haben.
 
@@ -183,6 +214,26 @@ Alle Personen, die nicht auf der Bühne stehen, rufen danach gemeinsam: "Tadaaaa
 Es werden A und B (und eventuell C) auf der Bühne und D als Regisseur*in benötigt. Die Spielenden bekommen ein Thema vorgegeben und müssen daraus eine Szene spielen. D hat nun die Möglichkeit, an beliebigen Stellen innerhalb der Szene "Neue Wahl" zu rufen. Die Spielenden müssen dann das letzte, was die gesagt/getan haben **schlagartig** in etwas anderes abändern. Optimaler Weise ruft D nur rein, wenn jemand auf der Bühne gerade etwas gesagt hat.
 ### Bemerkungen
 - D darf gerne mehrmals hintereinander reinrufen, bis D mit der neuen Wahl zufrieden ist.
+
+## Übung: Zeitstrahl
+### Erklärung
+A und B beginnen eine Szene, bei der sie zu beginn deutlich machen in welchem Alter sich ihre Charaktere befinden. Während der Szene hat die Moderation die Möglichkeit Zeitangaben zu rufen, wie beispielsweise "10 Jahre später!" und die Spielenden müssen dann eine Szene mit den selben Charakteren nur zur hereingerufenen Zeit spielen.
+### Bemerkung
+- Die Moderation sollte darauf achten keine zu großen Zeitsprünge in die Vergangenheit zu machen, sodass zu der geannten Zeit die Charaktere schon existiern.
+- Die Zeitangaben der Moderation können sowohl vor als auch nach der ursprünglichen Szene springen und über Minuten aber auch Jahre reichen.
+
+## Übung: Zwei Räume
+### Erklärung
+Die Bühne wird in zwei Teile geteilt. Das Publikum gibt eine Setting vor, die in mehren Räumen/Bereichen stattfinden kann. B starten in einem Teil der Bühne und A und C beginne die Szene im zweiten Teil der Bühne. Während der Szene wir durch "Switch!" Person C dazu gebracht, den Bühnenteil zuwechseln und dort sie Szene fortzusetzen.
+Es gibt mehrere Varianten, die Kombiniert werden können:
+- Beide Bühnenteile finden gleichzeitig statt, dann spielt die zurückbleibende Person die Szene weiter.
+- Mit dem Bühnenteilwechsel findet auch ein Zeitwechsel statt, dann friert die zurückbleibende Person ein.
+- Der Wechsel findet sofort ohne Erklärung statt.
+- C erklärt den "Raumwechsel".
+- Verschieden Emotionen in den Bühnenteilen.
+### Bemerkung
+- Im vorhinein klären welche Variante gespielt wird.
+- Passendes Settig einfordern, funktioniert nicht mit jedem Setting.
 
 # Impulse
 ## Motivation/Erklärung
@@ -230,6 +281,29 @@ Diese Übung ist für jeweils 2 Personen (A & B). A dreht B den Rücken zu. Pers
 - Akzeptiert neue Impulse.
 - Versucht in jeder neuen Situation auch neue Konflikte zu finden, aber versucht sie nicht zu erzwingen.
 - Versucht eine Szene aufzubauen, die zumindest halbwegs zu der gegebenen Anfangsposition passt.
+
+## Übung: Emotions Queue
+### Erklärung
+Auf der Bühne starten die Personen A und B. Vor Beginn der Szene werden 2 - 5 Personen ausgewählt, die abwechselnd die Rolle von B übernehmen. Jede dieser Personen erhält eine individuelle, von den anderen verschiedene Charaktereigenschaft und wird in eine Queue eingereiht. Die Szene beginnt mit Person A und der ersten Person der Queue. Während des Spiels kann das Publikum durch Zurufen von "Switch“ die aktuell spielende B-Person durch die nächste in der Queue ersetzen. Die neue Person führt die Szene unmittelbar weiter, jedoch mit der ihr zugewiesenen Charaktereigenschaft.
+### Bemerkung
+- Ja-Und Prinzip beachten, Person B soll konistet sein.
+- Wechsel sollen **schnell** passieren.
+- Charaktereigenschaften von B sollten im Konstrast zueinander stehen (z.B höflich - frech).
+
+## Übung: Gestik gegen Stimme
+### Erklärung
+A und B spielen eine Szene auf der Bühne, jedoch wir Person B durch 2 Spieler dargestellt, einer der die Gesten, Mimik,... der Person darstellt und einer der die Vertonung der Person übernimmt. Hierbei geht der vertonende Spieler auf die Gesten des darstellenden Spielers ein. 
+Variantionen:
+- beide Personen werden durch jeweils zwei Spieler dargestellt
+### Bemerkung
+- Pantomime und Stimme sollten zum Charakter passen.
+- Vertonender Spieler sollte so auf der Bühne stehen, dass er die Gestiken sieht, aber möglichst hinter dem darstellenden Spieler stehen. 
+
+## Übung: Übersetzer
+### Erklärung
+A und B spielen eine Szene. C steht abseits der Szene und versucht das gesprochene der Szene in "Gebärdensprache" darzustellen und für das Publikum zu übersetzen.
+### Bemerkung
+- A und B sollten nicht zu schnell sprechen um C Zeit für die Übersetzung zu geben.
 
 # Charaktere
 
@@ -352,3 +426,9 @@ Diese Übung ist für 2-3 Spielende und kommt in 3 Varianten:
 - Die Spielenden improvisieren eine Szene und spielen die einmal emotionslos durch. Dann gibt es einen 2. Durchlauf und bei dem kann das Publikum (oder eine vorher ausgewählte Person aus dem Publikum) immer wieder Emotionen reinrufen, die dann schlagartig in der Szene umgesetzt werden müssen.
 ### Bemerkungen
 - Der Story-Verlauf sollte sich nicht all zu sehr durch die gegebenen Emotionen ändern, allerdings sind kleinere Abweichungen komplett in Ordnung.
+
+## Übung: Emotionsschalter
+### Erklärung
+A und B bekommen vor der Szene eine Emotion zugewiesen, diese kann in der Szene übertirieben dargestellt werden. In der Szene hat das Publikum die Möglichkeit durch klatschen die Emotionen in der Szene auszuschalten bzw. wenn die Emotionen ausgeschaltet sind wieder einschalten. 
+### Bemerkung
+/
